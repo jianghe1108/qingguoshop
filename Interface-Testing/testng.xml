@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="s1" verbose="1">
+	<test name="t1">
+		<classes>
+	    	<class name="QGkuangjia.LoginTest"></class>
+			<class name="QGkuangjia.OrdersSubmit"></class>
+		</classes>
+	</test>
+</suite>
